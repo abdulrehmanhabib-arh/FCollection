@@ -1,0 +1,80 @@
+
+/* Product Area Styles */
+.section {
+    padding: 80px 0;
+}
+
+.section .container {
+    max-width: 1200px;
+}
+
+.section .left-images {
+    margin-bottom: 20px;
+}
+
+.section .left-images img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.section .right-content {
+    background-color: #f9f9f9;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.section .right-content h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.section .right-content .price {
+    color: #e74c3c;
+    font-size: 18px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.section .right-content .stars {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.section .right-content .stars li {
+    display: inline-block;
+    color: #f39c12;
+    margin-right: 5px;
+}
+
+.section .right-content span {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #666;
+    display: block;
+    margin-top: 10px;
+}
+
+.section .right-content .total {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.section .right-content .total h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.section .right-content .main-border-button a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e74c3c;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+}
+
+.section .right-content .main-border-button a:hover {
+    background-color: #333;
+}
